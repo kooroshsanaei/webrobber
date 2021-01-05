@@ -5,8 +5,8 @@ You can Get useful information from Websites and do some bypasses like bypassing
 
 # Install
 
-git clone https://github.com/zerodey/webrobber.git
-cd webrobber
+git clone https://github.com/zerodey/webrobber.git \n
+cd webrobber \n
 pip3 install -r requirements.txt
 python3 webrobber.py
 
