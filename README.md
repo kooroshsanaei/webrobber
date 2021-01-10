@@ -7,10 +7,10 @@
 
 # Install
 
-git clone https://github.com/zerodey/webrobber.git 
-cd webrobber 
-pip3 install -r requirements.txt
-python3 webrobber.py
+* `git clone https://github.com/zerodey/webrobber.git` \
+* `cd webrobber` \
+* `pip3 install -r requirements.txt`\
+* `python3 webrobber.py`
 
 
 # Video Tutorial 
